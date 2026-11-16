@@ -14,12 +14,14 @@ you would like.
 
 ## Scope
 
-- The Yureisha app for macOS (Mac App Store and direct download).
+Yureisha has not been released yet. Once it is, the scope will be:
+
+- The Yureisha app for macOS (Mac App Store and direct download builds).
 - The direct-download release channel: [yureisha-io/releases](https://github.com/yureisha-io/releases), including the
   update feed (`appcast.xml`) and the signed, notarized disk images.
-- The website, [yureisha.io](https://yureisha.io).
+- The website, yureisha.io (not live yet).
 
 ## Verifying a download
 
-Direct downloads are signed with Black Mesa Lab's Developer ID and notarized by Apple. Each release lists the
-SHA-256 of its disk image. See the [releases README](https://github.com/yureisha-io/releases#verifying-a-download).
+Direct downloads will be signed with Black Mesa Lab's Developer ID and notarized by Apple, and each release will
+list the SHA-256 of its disk image. See the [releases README](https://github.com/yureisha-io/releases#verifying-a-download).

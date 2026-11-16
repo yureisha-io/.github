@@ -7,15 +7,16 @@
 
 <p align="center"><strong>Many shells. One ghost.</strong></p>
 
-**Yureisha** (幽霊社, *ghost company*, Japanese for a shell company) is a native macOS app that runs a small company of
+**Yureisha** (幽霊社, *ghost company*, Japanese for a shell company) is a native macOS app, in development and not
+yet released, that runs a small company of
 coding agents for each of your projects: departments and roles as data, dispatch, continuation, a decisions inbox and
 experiments. You stay the operator; Yureisha brings you only the decisions that need you.
 
-- **Get it:** on the Mac App Store, and as a direct download (Developer ID signed and notarized by Apple) from
-  [yureisha.io/download](https://yureisha.io/download/).
-- **Requires:** a Mac with Apple silicon. Yureisha is built for arm64 only.
-- **Website:** [yureisha.io](https://yureisha.io)
-- **Support:** [yureisha.io/support](https://yureisha.io/support/)
-- **Releases and release notes:** [yureisha-io/releases](https://github.com/yureisha-io/releases)
+- **Availability:** not released yet. A Mac App Store build and a direct download (to be Developer ID signed and
+  notarized by Apple) are planned; nothing has been published.
+- **Will require:** a Mac with Apple silicon. Yureisha is built for arm64 only.
+- **Website:** yureisha.io (not live yet)
+- **Releases and release notes:** [yureisha-io/releases](https://github.com/yureisha-io/releases) (empty until the
+  first release)
 
-Yureisha is made by [Black Mesa Lab](https://blackmesalab.com).
+Yureisha is made by Black Mesa Lab.
